@@ -1,0 +1,40 @@
+
+.botones {
+  width: 850px;
+  height: 400px;
+  margin-bottom: 1%;
+  background-color: white;
+
+  border-radius: 40px 40px 40px 40px;
+  -moz-border-radius: 40px 40px 40px 40px;
+  -webkit-border-radius: 40px 40px 40px 40px;
+  border-width: 3px;
+  
+}
+.containerInicio {
+  margin-top: 10%;
+}
+#botonGraficas {
+  background-image: url("botonGraficas.svg");
+  background-position: center;
+  background-size: 30%;
+}
+#botonPlacas {
+  background-image: url("botonPlacas.svg");
+  background-position: center;
+  background-size: 30%;
+}
+#botonEficiencias {
+  background-image: url("botonEficiencias.svg");
+  background-position: center;
+  background-size: 30%;
+}
+#botonAjustes {
+  background-image: url("botonAjustes.svg");
+  background-position: center;
+  background-size: 25%;
+}
+.textoBotones {
+  position: relative;
+  top: 160px;
+}
